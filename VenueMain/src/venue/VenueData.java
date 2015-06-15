@@ -79,6 +79,12 @@ public class VenueData {
 		System.out.println("11 . Exit     ");
 	}
 	
+		/**
+		 * 
+		 * This method to extact data from the database 
+		 * 
+		 * **/  
+	
 	
 	public void searchdb(BasicDBObject query, DBCollection coll) throws ParseException
 	{
